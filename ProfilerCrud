@@ -1,0 +1,12 @@
+class profiler:
+    def __init__(self,name,id,section):
+        self.name=name
+        self.id=id
+        self.section=section
+
+class profileManager:
+    def __init__(self):
+        self.profile[]
+
+    def create_profile(self,name,id,section):
+        profile= profiler(name, id, section)
